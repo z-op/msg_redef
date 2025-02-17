@@ -1,0 +1,14 @@
+# textdomain: msg_redef
+
+
+
+### init.lua ###
+
+<action>=<действие>
+<name> <message>=<имя> <сообщение>
+DM for @1: @2=ЛС для @1: @2
+DM from @1: @2=ЛС от @1: @2
+Invalid usage, see /help msg.=Неправильное использование, смотри /help msg.
+Send a direct message to a player=Отправить личное сообщение игроку
+Show chat action (e.g., '/me orders a pizza' displays '<player name> orders a pizza')=Показать действие в чате (например, '/me заказывает пиццу' отображает '<имя игрока> заказывает пиццу')
+The player @1 is not online.=Игрок @1 сейчас не в сети.
